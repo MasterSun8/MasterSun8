@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm an aspiring programmer on my last year of high school working mostly with JS and python with ocassional embedded C++ and C
+
 <!--
 **MasterSun8/MasterSun8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
