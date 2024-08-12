@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm an aspiring programmer on my last year of high school working mostly with JS and python and some ocassional embedded C++ and C
+I'm an aspiring programmer and an IT student. Working mostly with JS, python and some ocassional embedded C++ and C
 
 [Link to my personal site: mastersun8.github.io](https://mastersun8.github.io)
 
